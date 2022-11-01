@@ -19,6 +19,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>Customer</module>
+        <module>Fraud</module>
+
     </modules>
     <dependencyManagement>
         <dependencies>
